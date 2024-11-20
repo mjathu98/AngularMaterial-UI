@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "id": "4a29",
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "Fresh Apple",
+      "date": "2024-11-19T18:30:00.000Z"
+    },
+    {
+      "id": "fd69",
+      "productName": "Strawberry",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 200,
+      "comment": "Fresh Fruit",
+      "date": "2024-11-02T18:30:00.000Z"
+    }
+  ]
+}
